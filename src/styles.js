@@ -19,6 +19,15 @@ h2
 {
     font-weight: lighter;
 }
+h3 {
+
+  color: white;
+}
+h4{ 
+   font-weight: bold;
+   font-size:2rem ;
+}
+
 `;
 
 export const Image =styled.div `
