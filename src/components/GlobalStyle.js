@@ -9,7 +9,8 @@ const GlogbalStyle =  createGlobalStyle`
 }
 body{
     background: #1b1b1b;
-}
+    font-family: 'Inter', sans-serif;
+ }
 button {
      font-weight: bold;
      font-size: 1.1rem;
@@ -23,6 +24,8 @@ button {
          background-color: #23d997;
          color: white;
     }
+    font-family: 'Inter', sans-serif;
+
  
 }
 h2{ 
